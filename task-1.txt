@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h1>"THIS IS MY HTML"</h1>
+<p>Memories are an essential part of our bodies.The shape our character as the entity of our insight and past <u> memories</u>,both great and awful.</p>
+<p>Memories from some time in the past and further more from ongoing occassions.Beside,a few memories assist us with geeting days and make us happy on great days</p>
+<img src="https://images.pexels.com/photos/1172253/pexels-photo-1172253.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 width="1000" height="1000">
+</body>
+</head>
+</html>
